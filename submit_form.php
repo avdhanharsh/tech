@@ -1,5 +1,5 @@
 <?php
-$serverName = "techeduca-server";
+$serverName = "techeduca-server.database.windows.net";
 $database = "techeduca-database";
 $username = "azure";
 $password = "Admin123";
